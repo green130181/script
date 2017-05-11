@@ -1,1 +1,1 @@
-export PATH=/home/mi/script/python:/home/mi/script/python:/home/mi/bin:/home/mi/Android/Sdk//tools/:/home/mi/Android/Sdk//platform-tools/:/home/mi/Android/Sdk//platform-tools/systrace/:/home/mi/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+export PATH=`pwd`:$PATH
